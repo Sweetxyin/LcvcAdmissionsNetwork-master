@@ -22,5 +22,10 @@ export default new VueRouter({
         path:'/TeachingStaff23',
         component: () => import('@/view/TeachingStaff23')
       }
+      ,
+      {
+        path:'/Footer',
+        component: () => import('@/view/Footer')
+      }
     ]
 })
