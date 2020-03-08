@@ -29,10 +29,11 @@
 
 <style scoped>
 .nv{
+  margin-top: -70px;
   width: 100%;
   height: 200px;
   background:url("../assets/major/3-bg.png") no-repeat;
-  background-size: cover;
+  background-size: 100%;
 }
 
 </style>
